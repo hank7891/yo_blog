@@ -1,4 +1,4 @@
-仿製他人製作Blog來學習 Laravel 用
+參考他人專案 製作Blog來學習 Laravel 用
 
 目前僅完成前端文章觀看及查詢
 
